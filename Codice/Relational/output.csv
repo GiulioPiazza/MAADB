@@ -1,0 +1,35 @@
+Emotion     Sentisense      NRC    EmoSN
+anger          0.8         15.2    5.5  
+anticipation   3.0         13.1    N.D. 
+disgust        7.4         12.4    N.D. 
+fear           3.0         16.8    N.D. 
+joy            1.6         11.6    47.9 
+sadness        1.8         15.0    N.D. 
+surprise       0.4         8.3     N.D. 
+trust          N.D.        16.8    N.D. 
+----------------------------------------
+Emotion     Sentisense      NRC    EmoSN
+anger          56.3         46.9    56.2 
+anticipation   63.1         49.8    N.D. 
+disgust        49.6         44.6    N.D. 
+fear           62.5         40.0    N.D. 
+joy            43.7         59.2    59.3 
+sadness        40.9         41.6    N.D. 
+surprise       51.7         54.6    N.D. 
+trust          N.D.         48.3    N.D. 
+-------------------------------------------
+Emotion     anger          New Words:  2978
+-------------------------------------------
+Emotion     anticipation   New Words:  2531
+-------------------------------------------
+Emotion     disgust        New Words:  3000
+-------------------------------------------
+Emotion     fear           New Words:  2685
+-------------------------------------------
+Emotion     joy            New Words:  2145
+-------------------------------------------
+Emotion     sadness        New Words:  2577
+-------------------------------------------
+Emotion     surprise       New Words:  2986
+-------------------------------------------
+Emotion     trust          New Words:  2693

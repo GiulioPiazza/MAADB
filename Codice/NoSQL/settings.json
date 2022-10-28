@@ -1,0 +1,15 @@
+{
+    "MongoDB" :
+	{
+		"Mongos_client" :
+		{
+			"Address" : "192.168.1.140",
+			"Port" : 60000
+		},
+		"PrimaryNode" : {"Address" : "192.168.1.140", "DBPort" : 50001 },
+		"SecondaryNodes" : [
+			{"Address" : "192.168.1.140", "DBPort" : 50002, "ServicePort": 50002,"ServiceAddress":"0.0.0.0", "Port": 8080},
+			{"Address" : "192.168.1.140", "DBPort" : 50003, "ServicePort": 50003,"ServiceAddress":"0.0.0.0", "Port": 8081}
+		]
+	}
+}

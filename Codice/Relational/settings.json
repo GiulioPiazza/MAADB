@@ -1,0 +1,10 @@
+{
+	"MariaDB" :
+	{
+		"HostName" : "localhost",
+		"Port" : 3306,
+		"DatabaseName" : "twitteremotions",
+		"Username" : "root",
+		"Password" : "admin"
+	}
+}

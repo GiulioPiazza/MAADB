@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Codice/Relational",
+        "./Codice/NoSQL"
+    ]
+}
